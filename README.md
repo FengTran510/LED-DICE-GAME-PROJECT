@@ -25,11 +25,11 @@ You are invited to reference - test on the main branch, which is the result of G
 - March 22nd, 2025 - Note: This is just a referencing version for system operation (not verified) -> if there is any errors, please don't hesitate to contact us (Contributor).
 
 ### 4.2. PCB Design of system
-![alt text](Picture/PCB layout.jpg)
+![alt text](<Picture/PCB layout.jpg>)
 - March 22nd, 2025 - Note: This is the first version of board development without testing -> refer only.
 
 ### 4.3. PCB Layout 
-![alt text](Picture/PCB 3D.jpg)
+![alt text](<Picture/PCB 3D.jpg>)
 - March 26th, 2025 - Note: This is the first version of board development without testing -> refer only.
 
 ### 4.4. Schematic Design of system
