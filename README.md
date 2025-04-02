@@ -1,11 +1,11 @@
 # Feature: LED DICE GAME PROJECT (Group Project)
 
 ## Contributor: 
-|       Name             |              Contact          |
+|       Name             |              ID               |
 |------------------------|-------------------------------|
-| Tran Duc Phong         |                               |
-| Nguyen Huu Dai Nhan    |                               |
-| Nguyen Vo Thien An     |                               |
+| Tran Duc Phong         |            2251042            |
+| Nguyen Huu Dai Nhan    |            2251039            |
+| Nguyen Vo Thien An     |            2151172            |
 
 ## 1. Introduction: 
 You are invited to reference - test on the main branch, which is the result of Group Project about LED DICE GAME-project for playing board game. We haven't completed testing this feature yet but we expect it would work. If you do test it, please let me know and I'll adjust and merge it to master.
@@ -33,6 +33,6 @@ You are invited to reference - test on the main branch, which is the result of G
 - March 26th, 2025 - Note: This is the first version of board development without testing -> refer only.
 
 ### 4.4. Schematic Design of system
-[text]()
+[text](<Picture/schematic.png>)
 - March 22nd, 2025 - Note: This is the first version of board development without testing -> refer only.
 
