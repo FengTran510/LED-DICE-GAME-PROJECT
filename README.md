@@ -20,19 +20,19 @@ You are invited to reference - test on the main branch, which is the result of G
 
 
 ## 4. Sample of Design
-### 4.1. General flowchart of system operation
+### 4.1. General block diagram of project
 ![alt text](<Document/Block diagram.jpg>)
 - March 22nd, 2025 - Note: This is just a referencing version for system operation (not verified) -> if there is any errors, please don't hesitate to contact us (Contributor).
 
 ### 4.2. PCB Design of system
-![alt text](rfid_project-pcb-1.png)
+![alt text](Picture/PCB layout.jpg)
 - March 22nd, 2025 - Note: This is the first version of board development without testing -> refer only.
 
-### 4.3. PCB Layout (Figure/Group12_PCB_Layout)
-![alt text](PCB-layout.png)
+### 4.3. PCB Layout 
+![alt text](Picture/PCB 3D.jpg)
 - March 26th, 2025 - Note: This is the first version of board development without testing -> refer only.
 
 ### 4.4. Schematic Design of system
-[text](RFID_Schematic.pdf)
+[text]()
 - March 22nd, 2025 - Note: This is the first version of board development without testing -> refer only.
 
