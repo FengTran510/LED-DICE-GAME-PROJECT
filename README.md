@@ -24,7 +24,7 @@ You are invited to reference - test on the main branch, which is the result of G
 ![alt text](<Document/Block diagram.jpg>)
 - March 22nd, 2025 - Note: This is just a referencing version for system operation (not verified) -> if there is any errors, please don't hesitate to contact us (Contributor).
 
-### 4.2. PCB Design of system
+### 4.2. PCB Design (3D)
 ![alt text](<Picture/PCB layout.jpg>)
 - March 22nd, 2025 - Note: This is the first version of board development without testing -> refer only.
 
