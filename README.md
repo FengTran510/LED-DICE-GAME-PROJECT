@@ -33,6 +33,6 @@ You are invited to reference - test on the main branch, which is the result of G
 - March 26th, 2025 - Note: This is the first version of board development without testing -> refer only.
 
 ### 4.4. Schematic Design of system
-![alt text](<Picture/schematic.png>)
+![alt text](<Picture/Schematic.png>)
 - March 22nd, 2025 - Note: This is the first version of board development without testing -> refer only.
 
