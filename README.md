@@ -21,7 +21,7 @@ You are invited to reference - test on the main branch, which is the result of G
 
 ## 4. Sample of Design
 ### 4.1. General block diagram of project
-![alt text](<Document/Block diagram.jpg>)
+![alt text](<Document/Block diagram.png>)
 - March 22nd, 2025 - Note: This is just a referencing version for system operation (not verified) -> if there is any errors, please don't hesitate to contact us (Contributor).
 
 ### 4.2. PCB Layout
