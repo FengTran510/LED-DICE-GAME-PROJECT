@@ -1,0 +1,54 @@
+Added Component: Designator=P1(AMPM-95278-101A06LF_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "95278-101A06LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://portal.fciconnect.com/Comergent//fci/drawing/95278.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. AC, 03/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 2 x 3 Position, Height 14.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "95278-101A06LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P2(FCI-77311-5_V)
+Add component (AddParameter): Name = "Case/Package"; Value = "77311-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://portal.fciconnect.com/Comergent//fci/drawing/77311.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. CK, 07/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://portal.fciconnect.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 1 x 5 Position, Height 16.24 mm, Tail Length 3.05 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "77311-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=RST_BTN Pin=P1-6
+Added Pin To Net: NetName=Group_1 Pin=P2-1
+Added Pin To Net: NetName=Group_2 Pin=P2-2
+Added Pin To Net: NetName=Group_3 Pin=P2-3
+Added Pin To Net: NetName=Group_4 Pin=P2-4
+Added Pin To Net: NetName=BUZZER Pin=P2-5
+Change Net Name : Old Net Name=+5 New Net Name=VCC
+Added Pin To Net: NetName=MISO Pin=P1-3
+Added Pin To Net: NetName=MISO Pin=U1-18
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P1-1
+Added Pin To Net: NetName=MOSI Pin=U1-17
+Added Net: Name=MOSI
+Added Pin To Net: NetName=SCK Pin=P1-5
+Added Pin To Net: NetName=SCK Pin=U1-19
+Added Net: Name=SCK
+Added Member To Class: ClassName=Sheet1 Member=Component P1 95278-101A06LF
+Added Member To Class: ClassName=Sheet1 Member=Component P2 77311-462K05LF
+Added Rule: Name=Schematic Supply Nets_2
