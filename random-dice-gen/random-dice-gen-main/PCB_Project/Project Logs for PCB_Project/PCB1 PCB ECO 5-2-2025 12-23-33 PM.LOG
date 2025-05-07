@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=VCC Pin=P1-2
+Removed Pin From Net: NetName=MISO Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=SCK Pin=P1-5
+Change Component Footprint: Designator=P1 Old Footprint=AMPM-95278-101A06LF_V New Footprint=HDR/Header/6
+Change Component Footprint: Designator=P2 Old Footprint=FCI-77311-5_V New Footprint=HDR/Header/5
+Change Component Comment : Designator=P2 Old Comment=77311-462K05LF New Comment=Header 5
+Change Component Comment : Designator=P1 Old Comment=95278-101A06LF New Comment=Header 6
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Change Managed Component Library Link : Designator=P1 Old VaultGUID=F07C2A1D-7DC0-4765-B9BB-92A4E7D63081 New VaultGUID= Old ItemGUID=7F7D0FD3-D7CD-43B7-9A12-44ECA06FD9DE New ItemGUID= Old RevisionGUID=C897328A-CE0B-4BCF-A9D6-49BEB9AE434B New RevisionGUID=
+Change Managed Component Library Link : Designator=P2 Old VaultGUID=F07C2A1D-7DC0-4765-B9BB-92A4E7D63081 New VaultGUID= Old ItemGUID=1C273722-DCA3-4E18-99BB-8C6744B89369 New ItemGUID= Old RevisionGUID=83CA092B-6B1B-470D-8336-F986BACEF18C New RevisionGUID=
+Change component parameters: Designator = "P1" ("P1"); Footprint = "AMPM-95278-101A06LF_V"; UniqueID = "\CCBZGYLS" ("\CCBZGYLS")
+Change component parameters (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2" ("P2"); Footprint = "FCI-77311-5_V"; UniqueID = "\UYYHSFDG" ("\UYYHSFDG")
+Change component parameters (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MISO Pin=P1-2
+Added Pin To Net: NetName=SCK Pin=P1-3
+Added Pin To Net: NetName=VCC Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5

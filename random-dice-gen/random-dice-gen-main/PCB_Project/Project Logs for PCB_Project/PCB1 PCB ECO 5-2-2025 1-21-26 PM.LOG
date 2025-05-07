@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Group_1 Pin=P2-1
+Removed Pin From Net: NetName=Group_2 Pin=P2-2
+Removed Pin From Net: NetName=Group_3 Pin=P2-3
+Removed Pin From Net: NetName=Group_4 Pin=P2-4
+Removed Pin From Net: NetName=BUZZER Pin=P2-5
+Removed Member From Class: ClassName=Sheet1 Member=P2
+Added Member To Class: ClassName=Sheet1 Member=Component SW2 TS-1109
