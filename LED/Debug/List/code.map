@@ -1,0 +1,27 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+counter                                                                           R3,R4        2
+last_face                                                                         R6           1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+simple_rand                                                                       0x0006C     19
+get_random_face                                                                   0x0007F     26
+init_io                                                                           0x00099     12
+clear_leds                                                                        0x000A5      5
+set_face                                                                          0x000AA     51
+funny_beep_pattern                                                                0x000DD     25
+short_beep                                                                        0x000F6      7
+rolling_effect                                                                    0x000FD     41
+show_face                                                                         0x00126     14
+main                                                                              0x00134     73
